@@ -1,0 +1,4 @@
+gtts
+pyTelegramBotAPI
+requests
+python-tgpt
